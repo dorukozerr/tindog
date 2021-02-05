@@ -1,4 +1,4 @@
-# tryhardz
+# tindog
 
 <h3>This was one of the first sites i made. Learned margin, padding, bootstrap with this one. And practiced html, css.</h3>
 
