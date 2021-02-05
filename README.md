@@ -1,5 +1,11 @@
 # tindog
 
-<h3>This was one of the first sites i made. Learned margin, padding, bootstrap with this one. And practiced html, css.</h3>
+<h2>Proct/App site with basics</h2>
 
-<h1><a href=https://dorukozerr.github.io/tryhardz/>You can checkout site from here</a></h1>
+<p>Credit goes to my tutor Angela Yu. Great teacher for beginners. Learned basics of HTML, CSS and bootstrap on this project. Also how get in to some google fonts. Feel free to check out <a href=https://dorukozerr.github.io/tindog/>site</a> and code<3</a></p>
+
+
+
+
+
+
